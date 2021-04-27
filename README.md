@@ -61,3 +61,6 @@ The connector is created for both Windows PowerShell 5.1 and PowerShell Core 7.0
 | Uri               | The Uri to the SCIM API. <http://some-api/v1/scim>           |
 | IsConnectionTls12 | Enables TLS 1.2 (Only necessary when using Windows PowerShell 5.1)        |
 | PageSize          | The pagesize used for the SCIM endpoint. You will find this information within the API reference documentation |
+
+# HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
