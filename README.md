@@ -91,7 +91,7 @@ The connector is created for both Windows PowerShell 5.1 and PowerShell Core 7.0
 
 5. Go to the _Configuration_ tab and fill in the required fields.
 
-![config](./assets/configuration.png)
+![config](https://github.com/Tools4everBV/HelloID-Conn-Prov-Source-Generic-Scim/blob/main/assets/configuration.png)
 
 | Parameter         | Description                                                  |
 | ----------------- | ------------------------------------------------------------ |
